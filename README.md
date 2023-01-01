@@ -32,4 +32,6 @@ For the process of Community Detection, the algorithm starts with the maximum nu
 ## Stage 5: Community Modelling Stage
 At this stage, the given features detected in the community detection stage are analysed and complied to detect the effectiveness and accuracy of the given system. The communities are structured and stored and the final list of features and communities are presented as an output to the system.
 
+
+# Ending Remarks
 The model is tested for its scalability and accuracy with conventional learning algorithms such as to test whether it can adequately detect useful features from a seemingly random and unlabelled dataset.
